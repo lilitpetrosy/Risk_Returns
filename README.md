@@ -1,2 +1,2 @@
 # Risk_Returns
-Risk and Returns: The Sharpe Ratio GUIDED
+Risk and Returns: The Sharpe Ratio
